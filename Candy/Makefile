@@ -1,0 +1,2 @@
+run:
+	jupyter lab
